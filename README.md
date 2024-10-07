@@ -1,4 +1,4 @@
-<div style="color: red; font-weight: bold;">**Reducer:**</div> A pure function that takes the current state and an action as arguments and returns a new state. It defines how the state should change in response to actions.
+<div style="color: red; font-weight: bold;">Reducer</div> A pure function that takes the current state and an action as arguments and returns a new state. It defines how the state should change in response to actions.
 
 ``` 
 const reducer = (state = initialState, action) => {
